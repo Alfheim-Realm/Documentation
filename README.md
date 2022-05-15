@@ -9,6 +9,7 @@
 * [Server Maps](#server-maps)
 ## Changed Features:
 * [Fairy System](#fairy-system)
+* [Experience System](#experience-system)
 ## Extra Features:
 ### Server Rates:
 * Solo EXP: 
@@ -30,3 +31,8 @@
 * Configurable maximum level for each kind of fruit (normal and great) with an overall maximum level that cannot be surpassed.
 * Fairies do not need to be "married" in order to be considered second generation, automatically all fairies that could be obtained from marriage can use possession skill.
 
+### Experience System
+* Able to customize all rates from just variables: solo, party and boat experience.
+* Removed experience from maps without needing items within inventory.
+* Increase rates on a per day basis.
+* Able to adjust rates on a per level basis to decrease experience obtained the closer the player is to the level limit. Adjusts automatically when increasing level limit.
