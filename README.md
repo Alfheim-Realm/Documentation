@@ -10,6 +10,9 @@
 ## Changed Features:
 * [Fairy System](#fairy-system)
 * [Experience System](#experience-system)
+* [Damage Handler](#damage-handler)
+* [Amplifier System](#amplifier-system)
+* [Forging System](#forging-system)
 ### Server Rates:
 * Solo EXP: 
 * Party EXP: 
@@ -39,3 +42,26 @@
 * Can add new amplifiers with a single variable and ItemInfo line.
 * Won't allow players to use an amplifier if they already have used one with the same or better bonus.
 * Able to adjust each percentage of super and lucky strike for each level bonus.
+#### Damage Handler
+* Function "after_player_kill_player" has been updated to be customizable.
+  * Able to customizable kill feed texts.
+  * Able to make kill feed text local or global notices on a per-map basis.
+#### Forging System:
+* Allow to put level limits on a general level, type (unique, dragon, basic) and individual gems.
+* Allow to set the specific success rate percentage for each level on each type: forging gems, combining gems and combining refining gems.
+* Allow to modify the success rate for each socket percentage.
+* Allow to move gems from one slot to another when empty.
+  * If a socket goes emtpy upon gem extraction, the gem in the next socket can be moved down. Example: if socket 1 goes empty upon last gem extraction, gems from socket 2 can be moved to 1 and gems from socket 3 moved to 2.
+* Prohibit forging same attribute type gem in a single equipment.
+  * Example: cannot forge "Chipped Gem of Rage" if equipment already has "Gem of Rage".
+* Set a maximum forge level on equipment.
+* Blacksmith's plier are customizable.
+  * Can obtain "Refining Gem" upon extraction of gem.
+  * Can empty the equipment socket and get all gems in it.
+  * Combination of the 2 above.
+* All of the above can be customized via variables.
+
+#### Extra Stuff:
+* Fixed backend stuff.
+  * Easier ways to manage "Medal of Honor".
+  * Grouped all healing items into a single function with customizable variables.
