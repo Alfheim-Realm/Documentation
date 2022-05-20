@@ -60,6 +60,7 @@
   * Can empty the equipment socket and get all gems in it.
   * Combination of the 2 above.
 * All of the above can be customized via variables.
+* Several gems are available for usage within the files: normal, unique, dragon, advance, hat, broken, cracked, chipped, great and azrael gems.
 
 #### Extra Stuff:
 * Fixed backend stuff.
