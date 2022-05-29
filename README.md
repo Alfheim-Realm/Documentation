@@ -32,6 +32,7 @@
 * All related texts are now tied to variable for easy modification.
 * Configurable maximum level for each kind of fruit (normal and great) with an overall maximum level that cannot be surpassed.
 * Fairies do not need to be "married" in order to be considered second generation, automatically all fairies that could be obtained from marriage can use possession skill.
+* New fairies (Angela and Angela Jr) are usable, along with new improved fruits and rations.
 #### Experience System
 * Able to customize all rates from just variables: solo, party and boat experience.
 * Removed experience from maps without needing items within inventory.
@@ -66,3 +67,5 @@
 * Fixed backend stuff.
   * Easier ways to manage "Medal of Honor".
   * Grouped all healing items into a single function with customizable variables.
+  * Cleaned and fixed all manufacturing items.
+  * Cleaned all character and monster skills.
