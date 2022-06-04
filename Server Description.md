@@ -7,8 +7,6 @@
 * [Server Rates](#server-rates)
 * [Server Limits](#server-limits)
 * [Server Maps](#server-maps)
-## Changed Features:
-* [Fairy System](#fairy-system)
 ### Server Rates:
 * Solo EXP: 
 * Party EXP: 
@@ -21,6 +19,8 @@
 * Equipment Socket: 2
 ### Server Maps:
 * [Forsaken City](#forsaken-city)
+## Changed Features:
+* [Fairy System](#fairy-system)
 
 ##### Fairy System:
 * Rations considered "auto" do not need to be in third slot, system will auto detect that fairy is not full and will check if player has an auto ration and will consume it. If it needs more than one ration, it will consume till full.
