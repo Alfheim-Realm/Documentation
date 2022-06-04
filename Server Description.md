@@ -52,6 +52,5 @@
 * Players will need to put skills in order from novice to standard, cannot place standard directly.
 
 ##### Extra Features:
-* Experience gain is disabled from maps like Forsaken City, Dark Swamp and Demonic World.
 * Players won't be allowed to use an amplifier if they currently have one in effect with the same or better bonus.
 * Custom kill feed messages throughout the server when a player kills another player.
