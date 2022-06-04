@@ -22,25 +22,28 @@
 ### Changed Features:
 * [Fairy System](#fairy-system)
 
-## Server Maps:
+## Server Maps
 ### Forsaken City:
-* Information:
-  * Location: Magic Sea (1509, 3666)
-  * Opening interval: Every 180 minutes.
-  * Portal duration: 60 minutes.
-  * Map duration: 120 minutes.
-
-* Requirements:
-  * Level: 30 – 45
-
-* Additional Features:
-  * No experience gained when killing monsters inside the map.
-  * All “Unique Gems” (Rage, Colossus, Soul, Wind and Striking) are now in the drop list at a low chance of dropping from Forsaken City 3 boss.
-  * “Chest of Forsaken City” item from Forsaken City 3 boss now gives out a random sealed level 45 equipment.
-  * “Goddess Favor” is now in the drop list on Forsaken City 3 boss.
-  * “Refining Gem” is now in the drop list of Forsaken City 3 boss.
-  * When wearing a full set (armor, gloves, and boots) of level 45 unseals, player will get a 10% increased drop rate. This bonus functions as a multiplier, not added with other bonuses.
-
+* No experience gained when killing monsters inside the map.
+* All “Unique Gems” (Rage, Colossus, Soul, Wind and Striking) are now in the drop list at a low chance of dropping from Forsaken City 3 boss.
+* “Chest of Forsaken City” item from Forsaken City 3 boss now gives out a random sealed level 45 equipment.
+* “Goddess Favor” is now in the drop list on Forsaken City 3 boss.
+* “Refining Gem” is now in the drop list of Forsaken City 3 boss.
+* When wearing a full set (armor, gloves, and boots) of level 45 unseals, player will get a 10% increased drop rate. This bonus functions as a multiplier, not added with other bonuses.
+### Dark Swamp:
+* No experience gained when killing monsters inside the map.
+* All “Unique Gems” (Rage, Colossus, Soul, Wind and Striking) are now in the drop list at a low chance of dropping from Dark Swamp 3 boss.
+* “Chest of Dark Swamp” item from Dark Swamp 3 boss now gives out a random sealed level 55 equipment.
+* “Goddess Favor” is now in the drop list on Dark Swamp 3 boss.
+* “Refining Gem” is now in the drop list of Dark Swamp 3 boss.
+* When wearing a full set (armor, gloves, and boots) of level 55 unseals, player will get a 10% increased drop rate. This bonus functions as a multiplier, not added with other bonuses.
+### Demonic World:
+* No experience gained when killing monsters inside the map.
+* All “Unique Gems” (Rage, Colossus, Soul, Wind and Striking) are now in the drop list at a low chance of dropping from Demonic World 1 boss.
+* All “Unique Gems” (Rage, Colossus, Soul, Wind and Striking) are now in the drop list at a low chance of dropping from Demonic World 2 boss.
+* “Chest of Demonic World” item from Demonic World 1 boss now gives out a random unique gem.
+* “Chest of Enigma” item from Demonic World 2 boss now gives out a random sealed level 65 equipment.
+* When wearing a full set (armor, gloves, and boots) of level 65 unseals, player will get a 10% increased drop rate. This bonus functions as a multiplier, not added with other bonuses.
 ## Changed Features:
 ##### Fairy System:
 * Rations considered "auto" do not need to be in third slot, system will auto detect that fairy is not full and will check if player has an auto ration and will consume it. If it needs more than one ration, it will consume till full.
