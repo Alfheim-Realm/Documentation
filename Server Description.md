@@ -22,6 +22,7 @@
 ## Changed Features:
 * [Fairy System](#fairy-system)
 
+## Server Maps:
 ##### Fairy System:
 * Rations considered "auto" do not need to be in third slot, system will auto detect that fairy is not full and will check if player has an auto ration and will consume it. If it needs more than one ration, it will consume till full.
 * Players will need to put skills in order from novice to standard, cannot place standard directly.
