@@ -19,6 +19,8 @@
 * Equipment Socket: 2
 ### Server Maps:
 * [Forsaken City](#forsaken-city)
+* [Dark Swamp](#dark-swamp)
+* [Demonic World](#demonic-world)
 ### Changed Features:
 * [Fairy System](#fairy-system)
 
