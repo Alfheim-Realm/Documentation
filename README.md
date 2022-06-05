@@ -69,3 +69,4 @@
   * Grouped all healing items into a single function with customizable variables.
   * Cleaned and fixed all manufacturing items.
   * Cleaned all character and monster skills.
+* Added effect/state handler to allow easier modification of glows or state bonuses.
