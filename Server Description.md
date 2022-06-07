@@ -21,6 +21,7 @@
 * [Forsaken City](#forsaken-city)
 * [Dark Swamp](#dark-swamp)
 * [Demonic World](#demonic-world)
+* [Chaos Argent](#chaos-argent)
 ### Changed Features:
 * [Fairy System](#fairy-system)
 
@@ -50,6 +51,18 @@
 * When wearing a full set (armor, gloves, and boots) of level 65 unseals, player will get a 10% increased drop rate. This bonus functions as a multiplier, not added with other bonuses.
 * Sealed equipment must now be unsealed at "Furnace of Immortality" with a special jewel. Jewel can be obtained via "World Researcher" by exchanging runestones from Demonic World and gold.
 * Special unique glow added per class that gives minor bonus upon wearing an equipment set (armor, gloves and boots) for level 55 unseals.
+### Chaos Argent:
+* Portal name will display amount of player(s) inside at all times until the portal closes.
+* Gain bonus honor/chaos points upon reaching kill streaks.
+* If you leave the map without dying, you will be given a penalty.
+* Cannot enter with a party, if you somehow do enter with a party or form one inside, you will be given a penalty.
+* Gain bonus honor/chaos points by getting revenge on last person that killed you.
+* The rewards a player can receive vary on how many unique and total players enter, refer to a table below to see. If there is more than one survivor then honor, reputation and chaos points are divided equally. Items are for a unique survivor (one player) or multiple survivors (up to five players).
+* If you kill a player with the same IP (alternate account character), you will not receive honor/chaos points even if it was announced in system.
+* The timer system is completely different and it follows a schedule, if no players are inside at a said time, that wave of monsters will not spawn.
+* Gem of Soul, Gem of Wind and Gem of Striking are among the drops of Expert Chest along with Gem of Rage and Gem of Colossus with same drop rate.
+* Gold deducted at entry will be given back to the surviving player(s), if more than one player has survived, then the gold will be given out equally.
+* Penalties include being taken out of the map, being unable to enter the map for some minutes and losing points.
 ## Changed Features:
 ##### Fairy System:
 * Rations considered "auto" do not need to be in third slot, system will auto detect that fairy is not full and will check if player has an auto ration and will consume it. If it needs more than one ration, it will consume till full.
