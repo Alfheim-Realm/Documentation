@@ -24,6 +24,13 @@
 * Fairy Level: 41
 * Equipment Socket: 2
 ### Server Maps:
+* Ascaron (+ Region)
+* Magic Sea (+ Region)
+* Deep Blue (+ Region)
+* Forsaken City (1, 2 & 3)
+* Dark Swamp (1, 2 & 3)
+* Demonic World (1 & 2)
+* [Chaos Argent](#chaos-argent)
 
 #### Fairy System:
 * Everything is customizable via variables.
@@ -62,7 +69,11 @@
   * Combination of the 2 above.
 * All of the above can be customized via variables.
 * Several gems are available for usage within the files: normal, unique, dragon, advance, hat, broken, cracked, chipped, great and azrael gems.
-
+#### Chaos Argent:
+* The whole map script was cleaned, modified and improved to easier usage and modification with only variables.
+* The essence of the map stayed the same, but a lot of improvements were made on the map to increase player engagement.
+* New functions were added to handle cheaters like players forming party inside, anti-relog penalties, multi-account prevention and so on.
+* Added new ways to obtain honor/chaos points upon getting kill-streaks, revenge and internal ranking kills.
 #### Extra Stuff:
 * Fixed backend stuff.
   * Easier ways to manage "Medal of Honor".
