@@ -81,3 +81,4 @@
   * Cleaned and fixed all manufacturing items.
   * Cleaned all character and monster skills.
 * Added effect/state handler to allow easier modification of glows or state bonuses.
+* Added functions to easier create daily and weekly quests by just adding 2 extra variables to the desired quest.
