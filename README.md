@@ -84,3 +84,7 @@
 * Quest System:
   * Added functions to easier create daily and weekly quests by just adding 2 extra variables to the desired quest.
   * Modified some core functions to allow for quests to be timed just by adding the desired time in seconds to the quest.
+* Marriage System:
+  * Players can get married to one another and obtain a special teleportation skill (can only be used within same GameServer).
+  * Can allow players to save a location, this allows players to teleport even while their partner is offline or not in same party.
+  * Must place maps within variables to allow players to teleport in that map and also prohibit them.
