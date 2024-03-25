@@ -54,6 +54,7 @@
 * Function "after_player_kill_player" has been updated to be customizable.
   * Able to customizable kill feed texts.
   * Able to make kill feed text local or global notices on a per-map basis.
+* All damage related functions now handle attacker and defender.
 #### Forging System:
 * Allow to put level limits on a general level, type (unique, dragon, basic) and individual gems.
 * Allow to set the specific success rate percentage for each level on each type: forging gems, combining gems and combining refining gems.
@@ -88,3 +89,16 @@
   * Players can get married to one another and obtain a special teleportation skill (can only be used within same GameServer).
   * Can allow players to save a location, this allows players to teleport even while their partner is offline or not in same party.
   * Must place maps within variables to allow players to teleport in that map and also prohibit them.
+* General Item Handler
+  * Complex function to handle several types of items boxes (chests, pouches, scrolls, etc.).
+    * Generic - Fixed: Will give out all items in variables if the "Allow" variable set to "true".
+    * Generic - Random: Will give out a single item at random from the options that have the "Allow" variable set to "true".
+    * Generic - Mixed:
+      * Will give out all items in options that have the "Allow" variable set to "true" and the "Guaranteed" variable set to "true".
+      * Will give out a random item from all the options that have the "Allow" variable set to "true" and the "Guaranteed" variable set to "false".
+    * Class - Fixed: Will give out all items in variables if the "Allow" variable set to "true" and corresponding to their class.
+    * Class - Random: Will give out a single item at random from the options that have the "Allow" variable set to "true" and corresponding to their class.
+    * Class - Mixed:
+      * Will give out all items in options that have the "Allow" variable set to "true" and the "Guaranteed" variable set to "true" and corresponding to their class.
+      * Will give out a random item from all the options that have the "Allow" variable set to "true" and the "Guaranteed" variable set to "false" and corresponding to their class.
+* String Parser: Hooked all notice related functions to allow variables without having to use "string.format" each time.
